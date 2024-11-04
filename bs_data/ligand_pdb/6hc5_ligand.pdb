@@ -1,0 +1,34 @@
+HETATM    1  CAD FXT A 105      13.402  31.834  65.951  0.40 32.24           C  
+HETATM    2  CAF FXT A 105      14.449  29.729  66.142  0.40 33.42           C  
+HETATM    3  CAG FXT A 105      15.731  29.008  65.782  0.40 50.41           C  
+HETATM    4  CAH FXT A 105      16.873  29.269  66.854  0.40 85.95           C  
+HETATM    5  CAI FXT A 105      17.258  27.950  67.559  0.40 49.99           C  
+HETATM    6  CAJ FXT A 105      18.554  27.563  66.864  0.40 36.67           C  
+HETATM    7  CAL FXT A 105      20.843  27.497  67.391  0.40 31.34           C  
+HETATM    8  NAA FXT A 105      12.347  31.291  66.598  0.40 29.69           N  
+HETATM    9  NAB FXT A 105      20.919  26.314  66.745  0.40 29.07           N  
+HETATM   10  NAC FXT A 105      13.341  33.095  65.960  0.40 35.97           N  
+HETATM   11  NAE FXT A 105      14.596  31.216  66.056  0.40 33.60           N  
+HETATM   12  NAK FXT A 105      19.716  28.239  67.405  0.40 33.30           N  
+HETATM   13  NAM FXT A 105      22.029  28.100  67.432  0.40 37.34           N  
+HETATM   14  HAG FXT A 105      14.165  29.519  67.046  0.40 40.12           H  
+HETATM   15  HAF FXT A 105      13.721  29.476  65.553  0.40 40.12           H  
+HETATM   16  HAH FXT A 105      16.024  29.320  64.911  0.40 60.51           H  
+HETATM   17  HAI FXT A 105      15.544  28.058  65.729  0.40 60.51           H  
+HETATM   18  HAK FXT A 105      16.551  29.903  67.514  0.40103.16           H  
+HETATM   19  HAJ FXT A 105      17.653  29.633  66.406  0.40103.16           H  
+HETATM   20  HAL FXT A 105      16.583  27.264  67.434  0.40 60.01           H  
+HETATM   21  HAM FXT A 105      17.403  28.078  68.509  0.40 60.01           H  
+HETATM   22  HAO FXT A 105      18.724  26.611  66.935  0.40 44.02           H  
+HETATM   23  HAN FXT A 105      18.523  27.772  65.917  0.40 44.02           H  
+HETATM   24  HAA FXT A 105      11.566  31.713  66.541  0.40 35.65           H  
+HETATM   25  HAT FXT A 105      12.484  30.536  67.050  0.40 35.65           H  
+HETATM   26  HAUAFXT A 105      20.186  26.022  66.332  0.40 34.90           H  
+HETATM   27  HAUBFXT A 105      21.697  25.883  66.762  0.40 34.90           H  
+HETATM   28  HAC FXT A 105      14.003  33.544  65.571  0.40 43.18           H  
+HETATM   29  HAE FXT A 105      15.263  31.534  65.559  0.40 40.34           H  
+HETATM   30  HAP FXT A 105      19.582  28.729  68.135  0.40 39.98           H  
+HETATM   31  HAR FXT A 105      22.755  27.585  67.404  0.40 44.83           H  
+HETATM   32  HAS FXT A 105      22.038  28.989  67.484  0.40 44.83           H  
+TER      33      FXT A 105                                                       
+END   

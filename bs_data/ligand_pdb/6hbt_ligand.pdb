@@ -1,0 +1,30 @@
+HETATM    1  CAD FXQ A 103      13.492  32.618  45.430  0.50 45.70           C  
+HETATM    2  CAF FXQ A 103      14.771  34.756  45.293  0.50 57.67           C  
+HETATM    3  CAG FXQ A 103      16.169  35.225  45.657  0.50 57.12           C  
+HETATM    4  CAH FXQ A 103      16.933  35.676  44.382  0.50 54.71           C  
+HETATM    5  CAI FXQ A 103      18.090  36.637  44.771  0.50 60.27           C  
+HETATM    6  CAK FXQ A 103      20.518  36.592  44.715  0.50 46.69           C  
+HETATM    7  NAA FXQ A 103      12.391  33.225  44.975  0.50 43.08           N  
+HETATM    8  NAB FXQ A 103      21.645  36.089  44.225  0.50 46.22           N  
+HETATM    9  NAC FXQ A 103      13.432  31.339  45.797  0.50 41.44           N  
+HETATM   10  NAE FXQ A 103      14.609  33.329  45.660  0.50 53.86           N  
+HETATM   11  NAJ FXQ A 103      19.365  36.017  44.386  0.50 55.97           N  
+HETATM   12  NAL FXQ A 103      20.536  37.903  45.024  0.50 41.17           N  
+HETATM   13  HAF FXQ A 103      14.636  34.858  44.338  0.50 69.25           H  
+HETATM   14  HAG FXQ A 103      14.117  35.290  45.771  0.50 69.25           H  
+HETATM   15  HAH FXQ A 103      16.102  35.973  46.271  0.50 68.59           H  
+HETATM   16  HAI FXQ A 103      16.654  34.502  46.085  0.50 68.59           H  
+HETATM   17  HAJ FXQ A 103      17.304  34.887  43.955  0.50 65.69           H  
+HETATM   18  HAK FXQ A 103      16.329  36.122  43.769  0.50 65.69           H  
+HETATM   19  HAM FXQ A 103      18.073  36.847  45.718  0.50 72.37           H  
+HETATM   20  HAL FXQ A 103      17.933  37.422  44.223  0.50 72.37           H  
+HETATM   21  HAR FXQ A 103      11.678  32.767  44.828  0.50 51.74           H  
+HETATM   22  HAS FXQ A 103      21.679  35.211  44.084  0.50 55.51           H  
+HETATM   23  HAO FXQ A 103      12.690  30.910  45.740  0.50 49.77           H  
+HETATM   24  HAC FXQ A 103      14.137  30.943  46.090  0.50 49.77           H  
+HETATM   25  HAE FXQ A 103      15.267  32.971  46.082  0.50 64.68           H  
+HETATM   26  HAN FXQ A 103      19.363  35.694  43.557  0.50 67.20           H  
+HETATM   27  HAP FXQ A 103      21.322  38.269  45.224  0.50 49.45           H  
+HETATM   28  HAQ FXQ A 103      19.815  38.243  45.421  0.50 49.45           H  
+TER      29      FXQ A 103                                                       
+END   

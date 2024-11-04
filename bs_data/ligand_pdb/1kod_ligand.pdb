@@ -1,0 +1,14 @@
+HETATM    1  C   CIR A   1       1.787   4.103  36.211  1.00  1.00           C  
+HETATM    2  O   CIR A   1       1.108   3.115  36.448  1.00  1.00           O  
+HETATM    3  OXT CIR A   1       2.914   4.278  36.657  1.00  1.00           O  
+HETATM    4  CA  CIR A   1       1.187   5.188  35.295  1.00  1.00           C  
+HETATM    5  N   CIR A   1       1.457   6.536  35.882  1.00  1.00           N  
+HETATM    6  C3  CIR A   1       1.802   5.110  33.878  1.00  1.00           C  
+HETATM    7  C4  CIR A   1       2.366   3.720  33.614  1.00  1.00           C  
+HETATM    8  C5  CIR A   1       1.224   2.732  33.387  1.00  1.00           C  
+HETATM    9  N6  CIR A   1       1.736   1.341  33.591  1.00  1.00           N  
+HETATM   10  C7  CIR A   1       0.948   0.312  33.429  1.00  1.00           C  
+HETATM   11  O7  CIR A   1       0.826  -0.531  34.315  1.00  1.00           O  
+HETATM   12  N8  CIR A   1       0.295   0.166  32.313  1.00  1.00           N  
+TER      13      CIR A   1                                                       
+END   
