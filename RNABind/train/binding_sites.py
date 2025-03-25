@@ -28,7 +28,6 @@ def parse_args():
     parser.add_argument('--seed', default=1, type=int, help="set seed")
     parser.add_argument('--dataset_number', default=1, type=int, help="set number")
     parser.add_argument('--task', default='rl_binding_site', type=str, help="task name, rl_binding_site")
-    parser.add_argument('--transfer_learning', default=False, type=bool, help="whether to use transfer learning")
 
     # directory arguments
     parser.add_argument('--data_path', default='~/RNABind/bs_data/RNA', type=str, help="training data")
