@@ -3,7 +3,7 @@
 Accurately predicting RNA-small molecule binding sites is a key pillar for understanding RNA-small molecule interactions.
 [RNABind](https://www.sciencedirect.com/science/article/pii/S0022283625000762) is an embedding-informed geometric deep learning framework to infer RNA-small molecule binding sites from RNA structures.
 
-![overview]([https://github.com/idrugLab/hignn/blob/main/RNABind.png](https://github.com/jaminzzz/RNABind/blob/main/RNABind.png))
+![overview](https://github.com/jaminzzz/RNABind/blob/main/RNABind.png)
 Fig.1 The overview of RNABind.
 ## Requirements
 This project is developed using python 3.9.18, and mainly requires the following libraries.
