@@ -27,12 +27,12 @@ def parse_args():
     # environment arguments
     parser.add_argument('--seed', default=1, type=int, help="set seed")
     parser.add_argument('--dataset_number', default=1, type=int, help="set number")
-    parser.add_argument('--task', default='rl_binding_site', type=str, help="task name, rl_binding_site or pl_binding_site (pre-training)")
+    parser.add_argument('--task', default='rl_binding_site', type=str, help="task name, rl_binding_site")
     parser.add_argument('--transfer_learning', default=False, type=bool, help="whether to use transfer learning")
 
     # directory arguments
-    parser.add_argument('--data_path', default='~/RNABind/bs_data/RNA', type=str, help="directory of pre-training data")
-    parser.add_argument('--output_dir', default='~/RNABind/results', type=str, help="directory of pre-training results")
+    parser.add_argument('--data_path', default='~/RNABind/bs_data/RNA', type=str, help="training data")
+    parser.add_argument('--output_dir', default='~/RNABind/results', type=str, help="training results")
     parser.add_argument('--tag', default='ernierna_single', type=str, help="tag of the experiment")
 
     # network arguments
