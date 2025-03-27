@@ -71,9 +71,7 @@ def build_rna_data(data: Data):
         
         ##### node features #####
         nucleotide = data.nucleotide_one_hot   # nucleotide type   size: [num_nodes, 4]
-
-        edge_index = data.edge_index
-        coord = data.coord
+      
         E_vectors = coord[edge_index[0]] - coord[edge_index[1]]             
         rbf = _rbf(E_vectors.norm(dim=-1), D_count=16)             
         pos_embedding = _positional_embeddings(edge_index, 16)   
