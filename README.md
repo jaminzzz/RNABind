@@ -15,8 +15,8 @@ multimolecule==0.0.5
 torch==2.0.0+cu118
 torch_geometric==2.4.0
 torch_scatter==2.1.2+pt20cu118
-pandas==1.5.3  # recommend
-transformers==4.43.4  # recommend
+pandas==1.5.3             # recommend
+transformers==4.43.4      # recommend
 ```
 We use [Graphein](https://github.com/a-r-j/graphein) to construct RNA 3D graph. Since there are some bugs in Graphein when handle with RNA PDBs, we modified the source code of Graphein and put it in our GitHub [repository](https://github.com/jaminzzz/RNABind/tree/main/Graphein). You need first `pip install graphein` to install related package and then `pip uninstall graphein` to discard the raw Graphein package and use our modified version.
 ## Datasets
