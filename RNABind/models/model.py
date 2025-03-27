@@ -60,7 +60,7 @@ class BindingSiteModel(nn.Module):
         
         edge_index = data.edge_index
         coord = data.coord.float()
-        edge_attr = data.edge_attr.float()
+        edge_attr = data.edge_attr.float()[:, 0:16]
 
         # encode the structure of rna
         embedings = self.recptor_model(x, coord, edge_index, edge_attr)
