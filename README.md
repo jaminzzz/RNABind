@@ -67,6 +67,9 @@ python binding_sites.py --embedding_type ernierna --dataset_number 1
 ```
 > **Note:** If there are any path-related errors, please check carefully.
 
+## Web server
+RNABind’s web server is freely available at http://www.csbio.sjtu.edu.cn/bioinf/RNABind.
+
 ## Cite
 References to cite when you use RNABind in a research paper:
 ```txt
